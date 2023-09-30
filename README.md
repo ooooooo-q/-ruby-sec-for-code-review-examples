@@ -1,0 +1,1 @@
+https://scrapbox.io/ruby-sec-for-code-review/ の確認用
